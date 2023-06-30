@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tech Stack Used
+
+React Js, MUI, Firebase for deployment and storage
+
+## Project live
+
+
+https://clone-project-pooja.web.app/
 ## Available Scripts
 
 In the project directory, you can run:
